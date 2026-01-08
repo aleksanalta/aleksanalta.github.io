@@ -1,4 +1,4 @@
-# Aleksan Alta — Cybersecurity Portfolio
+# Alta Aleksandrova — Cybersecurity Portfolio
 
 Computer science student building skills in cybersecurity, networking, and defensive security.  
 This site documents hands-on labs, notes, and projects as I develop practical experience.
